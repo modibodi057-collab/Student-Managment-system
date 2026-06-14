@@ -30,18 +30,14 @@ The system provides a fully functional interactive menu to perform complete **CR
 ### 1. Interactive Java CLI Menu
 The terminal interface handles user inputs and processes relational database queries in real-time through an intuitive command-line menu:
 
-<p align="center">
-  <img src="java_cli.jpg" alt="Java CLI Student System" width="800">
-</p>
+![Java CLI Student System](screenshots/java_cli.jpg)
 
 ---
 
 ### 2. SQLite Database Backend
 Every entry added, updated, or manipulated via the Java application is securely mapped and structured within the local SQLite database tables:
 
-<p align="center">
-  <img src="sqlite_backend.jpg" alt="DB Browser for SQLite View" width="800">
-</p>
+![DB Browser for SQLite View](screenshots/sqlite_backend.jpg)
 
 ---
 
